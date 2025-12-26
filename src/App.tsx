@@ -5,11 +5,8 @@ import Dashboard from './pages/Dashboard'
 
 const App = () => {
   return (
-    <Routes>
-      <Route element={<Signup />} path='/signup' />
-      <Route element={<Login />} path='/login' />
-      <Route element={<Dashboard />} path='/dashboard' />
-    </Routes>
+
+    <h2>daksj</h2>
   )
 }
 
